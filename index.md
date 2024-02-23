@@ -8,5 +8,5 @@
 
 - Deleted payment shown with reason "Manualy deleted" without action.
 
-https://github.com/khoale38/eleventy-page/assets/61538368/ad9e7c44-9e35-4e27-ad98-1b97f333821b
+<video>https://github.com/khoale38/eleventy-page/assets/61538368/ad9e7c44-9e35-4e27-ad98-1b97f333821b<video>
 
